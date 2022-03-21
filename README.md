@@ -41,4 +41,4 @@ I am a Software developer and aspiring to be a Blockchain developer. At the mome
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajman01&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="rajman01" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajman01&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="rajman01" />
