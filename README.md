@@ -5,9 +5,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/boy_dev3loper)
 [<img src="https://komarev.com/ghpvc/?username=rajman01&label=Profile%20views&color=0e75b6&style=flat" alt="rajman01" />](https://github.com/rajman01/rajman01)
 
-I am a Software developer and aspiring to be a Blockchain developer. At the moment, I am more focused on building backend projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I am a Software developer and aspiring to be a Machine learning engineer. At the moment, I am more focused on building backend projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
-- 🌱 I’m currently learning about **Web 3**
+- 🌱 I’m currently learning about **Machine Learning**
 - 👯 I’m looking to collaborate on any open source projects
 - 📫 How to reach me **alameenraji31@gmail.com**
 - 📁 Check out my portfolio [coming.soon](#)
