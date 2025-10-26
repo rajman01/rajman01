@@ -20,7 +20,7 @@ I focus on **clean, maintainable, and production-ready** solutions across backen
 
 ## 🚀 Projects I'm Proud Of
 
-### 🏦 **[Tendar](https://www.linkedin.com/in/rajman01/) — Lending-as-a-Service Platform**
+### 🏦 **[Tendar](https://www.tendar.co) — Lending-as-a-Service Platform**
 > A full microservices-based lending as a service platform with automated recollection via card/direct debit.  
 **Tech:** Go, gRPC, Redis, Asynq, MongoDB, Docker, Fiber, DigitalOcean  
 - Built automated repayment collection modes (card/direct debit).  
@@ -29,7 +29,7 @@ I focus on **clean, maintainable, and production-ready** solutions across backen
 
 ---
 
-### 🏫 **School SaaS — Student Report & Management System**
+### 🏫 **[Acada Power](https://www.acadapower.com) — All in one School Managaement Software**
 > Multi-tenant school platform for managing students, grading, and generating dynamic report cards.  
 **Tech:** Go, Redis, Excel/Word Automation, HTML Templates, Docker  
 - Generated student report cards in Excel and Word formats using dynamic templates.  
@@ -38,7 +38,7 @@ I focus on **clean, maintainable, and production-ready** solutions across backen
 
 ---
 
-### 🗺️ **OpenGeoWorks — Geospatial Automation Tool**
+### 🗺️ **[Autoplan](https://autoplan-gamma.vercel.app/) — Geospatial Automation Tool**
 > A CAD integration tool that plots survey coordinates and generates DWG files automatically.  
 **Tech:** TypeScript, ezdxf, Python, AutoCAD integration  
 - Automated the conversion of survey data into CAD-ready formats.  
@@ -46,14 +46,13 @@ I focus on **clean, maintainable, and production-ready** solutions across backen
 
 ---
 
-### 💳 **Buy Now Pay Later (BNPL) Service**
+### 💳 **[OJA](https://www.tryoja.com/) - Buy Now Pay Later (BNPL) Service**
 > End-to-end BNPL platform for merchants and customers.  
-**Tech:** Go, TypeScript, gRPC, Fiber, MongoDB, Redis, Docker  
+**Tech:** TypeScript, gRPC, Fiber, MongoDB, Redis, Docker  
 - Designed the merchant dashboard, SDK checkout, and approval workflow.  
 - Integrated settlement logic and webhook-based payment status tracking.  
 
 ---
-
 
 ### Tools & Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -79,6 +78,28 @@ I focus on **clean, maintainable, and production-ready** solutions across backen
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🧱 Engineering Principles
+
+- 🧩 **Clean Architecture:** I separate domain, application, and infrastructure for scalability.  
+- ⚙️ **Reliability:** Implemented idempotent transaction and task handling to prevent double processing.  
+- 📈 **Performance:** Designed Redis-based caching and background workers for efficiency.  
+- 🕸️ **Distributed Systems:** Comfortable with gRPC microservices and inter-service communication.  
+- 🔐 **Security:** Handle authentication, webhook verification, and secure external integrations.  
+
+---
+
+## 🤖 Currently Exploring
+
+- 🧩 **AI-driven Automation:** Using ML to automate workflows in finance and education systems.  
+- 🗺️ **Geospatial Intelligence:** Applying ML to survey data analysis, terrain mapping, and feature extraction.  
+- 🤖 **LLM Integrations:** Embedding large language models into backend services for intelligent interactions.  
+- 📊 **Predictive Analytics:** Building models to forecast repayment patterns and student performance.  
+- ⚙️ **MLOps:** Studying how to train, deploy, and monitor models in production environments.
+
+---
 
 
 ## 🤝 Let’s Connect
