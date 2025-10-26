@@ -5,13 +5,55 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/boy_dev3loper)
 [<img src="https://komarev.com/ghpvc/?username=rajman01&label=Profile%20views&color=0e75b6&style=flat" alt="rajman01" />](https://github.com/rajman01/rajman01)
 
-I am a Software developer and aspiring to be a Machine learning engineer. At the moment, I am more focused on building backend projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I’m a passionate software engineer who loves designing scalable systems, solving complex backend problems, and building products that empower businesses and people.  
+I focus on **clean, maintainable, and production-ready** solutions across backend and cloud environments.  
 
-- 🌱 I’m currently learning about **Machine Learning**
-- 👯 I’m looking to collaborate on any open source projects
-- 📫 How to reach me **alameenraji31@gmail.com**
-- 📁 Check out my portfolio [coming.soon](#)
-- ⚡ Fun fact: **I no dey rest**
+## 🧠 About Me
+
+- 💻 I specialize in **Golang**, **Node.js (TypeScript & JavaScript)**, and **microservice architectures**.  
+- 🧩 Experienced in **building scalable APIs**, **real-time messaging systems**, and **background job infrastructures**.  
+- ☁️ I deploy and manage applications using **Docker**, **DigitalOcean**, and **CI/CD pipelines**.  
+- 🗄️ Strong experience with **MongoDB**, **PostgreSQL**, **Redis**, and **message queues**.  
+- 💬 Skilled in **gRPC**, **REST**, and **event-driven systems**.  
+- 🧭 Currently combining my **Surveying & Geoinformatics** background with software engineering to build **geospatial automation tools**.  
+- 💡 Constantly learning, experimenting, and open to collaboration on impactful projects.
+
+## 🚀 Projects I'm Proud Of
+
+### 🏦 **[Tendar](https://www.linkedin.com/in/rajman01/) — Lending-as-a-Service Platform**
+> A full microservices-based lending as a service platform with automated recollection via card/direct debit.  
+**Tech:** Go, gRPC, Redis, Asynq, MongoDB, Docker, Fiber, DigitalOcean  
+- Built automated repayment collection modes (card/direct debit).  
+- Designed task scheduling with `asynq.PeriodicTaskManager`.  
+- Implemented idempotent transaction flows to avoid double charges.  
+
+---
+
+### 🏫 **School SaaS — Student Report & Management System**
+> Multi-tenant school platform for managing students, grading, and generating dynamic report cards.  
+**Tech:** Go, Redis, Excel/Word Automation, HTML Templates, Docker  
+- Generated student report cards in Excel and Word formats using dynamic templates.  
+- Built Redis-based background queue for async report generation.  
+- Designed notification pipeline for processing completion status tracking.  
+
+---
+
+### 🗺️ **OpenGeoWorks — Geospatial Automation Tool**
+> A CAD integration tool that plots survey coordinates and generates DWG files automatically.  
+**Tech:** TypeScript, ezdxf, Python, AutoCAD integration  
+- Automated the conversion of survey data into CAD-ready formats.  
+- Implemented scaling modes (1:500, 1:1000, etc.) and layout templates.  
+
+---
+
+### 💳 **Buy Now Pay Later (BNPL) Service**
+> End-to-end BNPL platform for merchants and customers.  
+**Tech:** Go, TypeScript, gRPC, Fiber, MongoDB, Redis, Docker  
+- Designed the merchant dashboard, SDK checkout, and approval workflow.  
+- Integrated settlement logic and webhook-based payment status tracking.  
+
+---
+
 
 ### Tools & Technologies
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,6 +79,18 @@ I am a Software developer and aspiring to be a Machine learning engineer. At the
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+## 🤝 Let’s Connect
+
+- 🌐 Portfolio: [Coming Soon](#)
+- 💼 LinkedIn: [linkedin.com/in/rajman01](https://www.linkedin.com/in/rajman01/)
+- 🐦 Twitter/X: [@boy_dev3loper](https://x.com/boy_dev3loper)
+- ✉️ Email: [alaameenraji31@gmail.com](mailto:alaameenraji31@gmail.com)
+
+---
+
+> “I build software that works — reliably, cleanly, and at scale.”
 
 
 ### Github Stats
