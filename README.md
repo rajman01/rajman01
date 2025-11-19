@@ -15,7 +15,8 @@ I focus on **clean, maintainable, and production-ready** solutions across backen
 - ☁️ I deploy and manage applications using **Docker**, **DigitalOcean**, and **CI/CD pipelines**.  
 - 🗄️ Strong experience with **MongoDB**, **PostgreSQL**, **Redis**, and **message queues**.  
 - 💬 Skilled in **gRPC**, **REST**, and **event-driven systems**.  
-- 🧭 Currently combining my **Surveying & Geoinformatics** background with software engineering to build **geospatial automation tools**.  
+- 🧭 Currently combining my **Surveying & Geoinformatics** background with software engineering to build **geospatial automation tools**.
+- 🌐 Deeply exploring Web3 development, smart contracts, token standards, and decentralized architecture, highly interested in how blockchain can power secure, trustless financial and geospatial systems.
 - 💡 Constantly learning, experimenting, and open to collaboration on impactful projects.
 
 ## 🚀 Projects I'm Proud Of
